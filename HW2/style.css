@@ -1,0 +1,26 @@
+body {
+    background-color: rgb(182, 221, 255);
+}
+
+h2 {
+    color: blue;
+    text-decoration: underline;
+}
+
+div.pictures {
+    display: flex;
+}
+
+div.picture {
+    width: 50%;
+}
+
+div.lists {
+    align-items: center;
+}
+
+div.list {
+    float: left;
+    margin-top: 2.5%;
+    margin-left: 2.5%;
+}
